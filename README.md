@@ -1,5 +1,7 @@
 ## Yoo!
-Tentando voltar a estudar
+🔭 Apaixonado por tecnologia
+🌱 Estudante Sistemas da Informação 8/8
+
  <div>
   <a href="https://github.com/SL3Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SL3Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
