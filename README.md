@@ -1,6 +1,6 @@
 ## Yoo!
 🔭 Apaixonado por tecnologia
-🌱 Estudante Sistemas da Informação 8/8
+🟣 Bacharel em Sistemas de Informação
 
  <div>
   <a href="https://github.com/SL3Dev">
@@ -12,8 +12,8 @@
 
 <div> 
   <a href="https://www.youtube.com/@SLGAM3SValorant" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/muu.leal_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-leal-90318518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/itssamueleal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/itssamueleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 </div>
