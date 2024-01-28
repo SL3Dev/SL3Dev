@@ -1,6 +1,13 @@
-## Yoo!
-🔭 Apaixonado por tecnologia
-🟣 Bacharel em Sistemas de Informação
+# Welcome to My Repository!
+
+Hello! My name is Samuel Leal and this is my GitHub repository. I'm a beginner in front-end development, with academic background in Information Systems.
+
+## About Me
+
+- 🎓 Graduated in Information Systems
+- 💻 Passionate about programming and technology
+- 🌱 Currently improving my skills in front-end development
+- 📚 Constantly learning new technologies and concepts
 
  <div>
   <a href="https://github.com/SL3Dev">
